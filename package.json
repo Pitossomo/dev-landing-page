@@ -1,0 +1,24 @@
+{
+  "name": "dev-landing-page",
+  "version": "1.0.0",
+  "description": "A Landing Page made with React for a software developer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pitossomo/dev-landing-page.git"
+  },
+  "keywords": [
+    "React",
+    "LandingPage",
+    "Dev"
+  ],
+  "author": "Pitossomo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pitossomo/dev-landing-page/issues"
+  },
+  "homepage": "https://github.com/Pitossomo/dev-landing-page#readme"
+}
