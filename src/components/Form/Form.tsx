@@ -1,3 +1,7 @@
-const Form = () => <form><input>Form</input></form>;
+const Form = () => (
+  <form>
+    <input></input>
+  </form>
+);
 
 export default Form;
