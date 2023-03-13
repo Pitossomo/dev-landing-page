@@ -2,5 +2,9 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 64px;
-}
+  height: 10vh;
+  max-height: 64px;
+  background-color: var(--main-background);
+  border-bottom: 1px solid gray;
+  font-size: 2rem;
+}   
