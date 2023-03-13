@@ -1,5 +1,6 @@
 #root {
   width: 100%;
+  --main-background: #030303;
 }
 
 body {
