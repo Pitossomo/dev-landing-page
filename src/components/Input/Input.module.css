@@ -1,0 +1,19 @@
+.inputWrapper {
+  display: flex;
+  flex-direction: column;
+  padding: 4px;
+}
+
+.label {
+  font-size: 0.8rem;
+  font-weight: 500;
+  padding: 4px;
+}
+
+.input {
+  width: 300px;
+  background-color: white;
+  border-radius: 4px;
+  padding: 4px;
+  color: black;
+}
