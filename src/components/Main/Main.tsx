@@ -1,6 +1,5 @@
 import styles from "./Main.module.css";
-import Form from "../Form/Form";
-import Headline from "../Headline/Headline";
+import { Form, Headline } from "../";
 
 const Main = () => (
   <main className={styles.main}>
