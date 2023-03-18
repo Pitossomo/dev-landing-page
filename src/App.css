@@ -1,6 +1,8 @@
 #root {
   width: 100%;
   --main-background: #030303;
+  --highlight-color: #ff0066;
+  --button-color: #ff223d;
 }
 
 body {
