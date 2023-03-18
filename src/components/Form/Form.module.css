@@ -14,12 +14,8 @@
 }
 
 .button {
-  background-color: deeppink;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border-radius: 1.2rem;
-  height: 2.4rem;
+  background-color: var(--button-color);
+  border-radius: 100vh;
   margin-top: 1.2rem;
   text-transform: uppercase;
 }
